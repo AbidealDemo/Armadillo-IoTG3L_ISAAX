@@ -3,6 +3,6 @@
     "license": "MIT License",
     "version": "0.1",
     "scripts": {
-        "start": "python pending.py"
+        "start": "python test.py"
     }
 }
