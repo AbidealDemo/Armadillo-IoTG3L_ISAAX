@@ -3,6 +3,6 @@
     "license": "MIT License",
     "version": "0.1",
     "scripts": {
-        "start": "python test.py"
+        "start": "python main.py"
     }
 }
